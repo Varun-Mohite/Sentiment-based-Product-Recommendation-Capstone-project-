@@ -1,0 +1,2 @@
+# Sentiment-based-Product-Recommendation-Capstone-project-
+This repo is part of a course project to build a model that will improve the product recommendations given to its users/members given their past product reviews and ratings on the platform. It is a FICTITIOUS platform called "Ebuss.com". Ebuss sells products in various categories like other major e-commerce platforms Amazon, Flipkart, Myntra, etc.
